@@ -1,0 +1,47 @@
+[
+  {
+    "cep": "03202-060",
+    "logradouro": "Rua das Dálias",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Vila Bela",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+  },
+  {
+    "cep": "03202-030",
+    "logradouro": "Rua dos Gerânios",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Vila Bela",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+  },
+  {
+    "cep": "03206-000",
+    "logradouro": "Rua Porto Sabaúna",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Vila Alpina",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+  }
+]
